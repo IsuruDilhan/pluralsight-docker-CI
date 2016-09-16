@@ -1,3 +1,7 @@
+[![CircleCI]
+(https://circleci.com/gh/IsuruDilhan/pluralsight-docker-CI.svg?style=svg)]
+(https://circleci.com/gh/IsuruDilhan/pluralsight-docker-CI)
+
 # Test app for Pluralsight course
 
 This is a quick and dirty test node.js app cobbled together for the purposes of demonstrating a basic CI/CD workflow with Docker Hub for a Pluralsight video training course..
